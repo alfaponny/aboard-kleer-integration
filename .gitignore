@@ -1,0 +1,11 @@
+**/appsettings.Development.json
+**/obj/
+**/bin/
+
+**/TestResults/
+
+.vs/
+.vscode/
+
+*.nupkg
+packages/
