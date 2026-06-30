@@ -19,7 +19,6 @@ A .NET service that synchronizes employee data from **Aboard** (HR system) to **
 - [Configuration](#configuration)
 - [Running](#running)
 - [Tests](#tests)
-- [License](#license)
 
 ---
 
@@ -105,6 +104,3 @@ docker run aboard-kleer-integration:latest
 dotnet test
 ```
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
