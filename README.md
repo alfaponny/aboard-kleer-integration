@@ -3,7 +3,6 @@
 [![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker)](https://www.docker.com/)
 [![Tests](https://img.shields.io/badge/tests-xUnit-25A162)](https://xunit.net/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A .NET service that synchronizes employee data from **Aboard** (HR system) to **Kleer** (payroll system). It runs on a schedule, detects changes, updates Kleer accordingly, and sends Slack notifications for unmatched or offboarded employees.
 
